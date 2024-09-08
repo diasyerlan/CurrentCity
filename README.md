@@ -5,7 +5,7 @@ To install this package, import 'https://github.com/diasyerlan/CurrentCity' in S
 
 ## Usage example
 
-'''swift
+```swift
 
 import UIKit
 import CurrentCity
@@ -26,4 +26,4 @@ class ViewController: UIViewController {
     }
 }
 
-'''
+```
